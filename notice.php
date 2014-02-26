@@ -1,6 +1,8 @@
 <?php
+include 'config.php';
+
 	function notice()
 	{
-		print "All content &#169; 2009 - " . date('Y') . " 2012 Hilary B. Bisenieks unless otherwise noted";
+		print "All content &#169; $copyright_beginning - " . date('Y') . " $copyright_owner unless otherwise noted";
 	}
 ?>

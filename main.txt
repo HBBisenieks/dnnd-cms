@@ -1,33 +1,9 @@
-<h2>News</h2>
-										<p>
-											11 December 2010 - The video of Hilary's senior reading, which took place in Upper Fellowship Hall on the campus of Warren Wilson College on 9 December 2010 is now online and can be viewed in <a href="/writing">writing</a>.
-										</p>
-										<p>
-											4 November 2010 - Hilary's story, "Please Wait for the Next Available Teller," can be found in <i>Daily Flash 2011,</i> which is on sale now.
-										</p>
-										<p>
-											30 March 2010 - Hilary's story, "The Fall," has been accepted for the upcoming spring issue of Warren Wilson College's literary magazine, <i>The Peal,</i> and has been posted in <a href="/writing">writing</a>.
-										</p>
-										<p>
-											19 January 2010 - Hilary's article on steampunk literature, "One of the Old School," has been published in the <i>Gatehouse Gazette</i> #10, and posted in <a href="/writing">writing</a>.
-										</p>
-										<p>
-											11 January 2010 - Hilary recently received an <a href="http://wotfblog.galaxypress.com/2010/01/happy-new-year-to-everyone-and-here-we.html">honorable mention</a> in L. Ron Hubbard's Writers of the Future competition.
-										</p>
-										<p>
-											25 December 2009 - A very merry Christmas to all of you who celebrate it (and verry happy holidays to everyone regardless)!  A partial list of <a href="http://www.hilarybisenieks.com/reading/">Recommended Reading</a>, although unlinked from anywhere else on the site, is live.  The site will receive changes following my travels to Scotland and England.
-										</p>
-										<p>
-											9 December 2009 - After some hosting issues, everything is back to the way it was.  Blog will be going live in the coming weeks.  In the mean time, why not check out the <a href="http://urbanphantasy.wordpress.com/">Urban Phantasy blog</a>?
-										</p>
-										<p>
-											26 October 2009 - Contact page is now live.  Frequently Asked Questions page is now live.
-										</p>
-										<p>
-											22 October 2009 - New piece, "At the Gathering: A Lesson on Invisibility," a sneak peak at the November, 2009 issue of <a href="http://www.friendsjournal.org">Friends Journal</a>, posted in the <a href="/writing">writing</a> section.
-										</p>
-										<p>
-											As you may notice, this site is under construction at the moment, so please check back often, there will likely be something different going on.
-										<br />
-										-The Management
-										</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vulputate massa a leo mattis sollicitudin. Donec vulputate lacinia urna. Sed suscipit sem ut velit pretium, quis suscipit enim vulputate. Etiam condimentum lorem a adipiscing euismod. Vivamus gravida risus tortor, in varius felis faucibus quis. Donec rhoncus massa tellus, a facilisis quam suscipit id. Aenean velit sapien, eleifend eget volutpat eu, porttitor quis orci.</p>
+
+<p>Proin tempor euismod aliquet. Donec convallis a tellus quis adipiscing. Nam sit amet interdum felis. Suspendisse congue neque sit amet egestas auctor. Fusce dui est, laoreet sed dui quis, vestibulum rhoncus dolor. Integer ac neque id turpis imperdiet vulputate ut a orci. Donec felis neque, venenatis nec elementum nec, condimentum sit amet risus. Phasellus hendrerit est in est dapibus lobortis. Nulla tincidunt purus at mauris lobortis, id convallis erat imperdiet. Nam gravida, leo eu accumsan imperdiet, lacus lacus bibendum metus, non feugiat justo nisi in elit. Sed porttitor imperdiet purus, in sodales augue sodales sed. Quisque sit amet lectus vel enim ultricies hendrerit in sit amet lectus. Sed semper ornare molestie. Nulla vitae rhoncus orci. Vivamus dolor massa, vulputate at nulla vitae, egestas fermentum lacus. Nullam ultrices, nisi et pretium tincidunt, tortor lectus posuere mi, porta sodales dui lorem eget nisi.</p>
+
+<p>Aenean facilisis, nisl quis mollis auctor, lectus lorem iaculis lectus, eu sodales sem eros ut justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus lacus arcu, viverra vitae orci vitae, elementum scelerisque sapien. Vestibulum tempor, massa eu volutpat adipiscing, purus purus pretium eros, eu aliquet lorem magna non risus. Vestibulum at risus tempor, elementum mi sed, ultrices tellus. Ut facilisis erat at adipiscing eleifend. Sed quis adipiscing orci, pharetra ornare ligula.</p>
+
+<p>Quisque ut lorem fringilla, pharetra est non, tempor eros. Sed et purus ullamcorper, tempus libero mattis, pulvinar neque. Vestibulum vel elementum ligula. Proin leo quam, blandit in euismod eget, gravida ac elit. Vivamus vestibulum odio nunc, ut tristique augue volutpat in. Fusce vitae dolor tempus nisl sollicitudin pellentesque hendrerit in dui. Suspendisse potenti. Ut ultricies scelerisque fringilla. Curabitur tellus tortor, tempus nec laoreet eu, egestas vitae neque. Nunc id sagittis enim. Vivamus hendrerit diam non urna adipiscing tempor.</p>
+
+<p>Ut eget malesuada arcu. In luctus, dolor ac laoreet mollis, velit tortor feugiat mauris, sed ultricies nulla magna id velit. Quisque vel quam sagittis turpis porta blandit imperdiet vitae est. Vestibulum ut luctus mauris, cursus venenatis enim. Fusce id dui in sapien scelerisque rutrum. Cras lobortis orci sed orci tempor ornare a consequat mauris. Pellentesque auctor dolor sed risus porttitor, sit amet porta enim porta. Phasellus bibendum viverra eros, vel viverra orci viverra nec. Nam tincidunt enim non massa tristique vehicula. Mauris pulvinar orci sem, at dictum orci elementum at. Suspendisse scelerisque euismod augue sit amet sollicitudin. </p>
