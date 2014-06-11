@@ -1,12 +1,19 @@
 <!DOCTYPE HTML>
 
+<?php
+/*******************************
+ * creates standardized page header information
+ * and context-appropriate page title
+ ******************************/
+?>
+
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 	<head>
 	
-		<meta name="description" content="Hilary B. Bisenieks's Homepage" />
-		<meta name="keywords" content="Hilary, Bisenieks, author, fiction, speculative fiction, fantasy,science fiction, sci-fi, spec-fic, kilt, philadelphia, philadelphian, Balderston, writer, freelance, humor, short fiction, short story, published" />
-		<meta name="author" content="Hilary B. Bisenieks" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<meta name="author" content="" />
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 	
 		<link rel="stylesheet" type="text/css" href="includes/style.css" />
@@ -14,6 +21,11 @@
 		<link rel="shortcut icon" href="includes/images/favicon.ico" />
 	
 <?php
+/*************************
+ * Set page title based on content
+ * determined by GET
+ ************************/
+
 function title()
 {
    $title=$_GET["page"];
@@ -48,7 +60,7 @@ function title()
       break;
    }
    
-   $fulltitle="Hilary B. Bisenieks - ".$append;
+   $fulltitle="Title".$append;
    echo "<title>$fulltitle</title>";
 }
 ?>

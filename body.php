@@ -1,4 +1,11 @@
 <?php
+/*************************
+ * Loads main content of site based on GET 
+ * and serves appropriate html file.
+ *
+ * Example pages listed.
+ ************************/
+
 $page=$_GET["page"];
 
 switch ($page) {

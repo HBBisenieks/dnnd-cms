@@ -1,4 +1,12 @@
 <?php
+/*******************************
+ * Loads freshest blog from a list of rss feeds.
+ *
+ * Default behavior is to always load a primary
+ * "featured" blog as first entry and freshest
+ * entry from list of secondary blogs.
+ * ****************************/
+
 	function blog($feed)
 	{
 		$xml = simplexml_load_file("$feed");
@@ -10,7 +18,7 @@
 
 function second()
 {
-   $feeds=array("http://beepboopeveryday.wordpress.com/feed","http://flashficinthepan.wordpress.com/feed");
+   $feeds=array(/* list of blog feeds here */);
    for ($i=0;$i<count($feeds);$i++)
    {
       $xml[$i]=simplexml_load_file("$feeds[$i]");
@@ -32,7 +40,7 @@ function second()
 <div class='blog-wrapper'>
 <h1>Recent Blogs</h1>
 	<div class='blog-left'>
-		<?php blog("http://urbanphantasy.wordpress.com/feed/"); ?>
+		<?php blog(/* "featured" blog feed here */); ?>
 	</div>
 	<div class='blog-right'>
 		<?php blog(second()); ?>

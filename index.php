@@ -3,12 +3,9 @@ include 'images.php';
 include 'twitter.php';
 include 'notice.php';
 include 'header.php';
-
-title("A Test Title");
 ?>
 </head>
 <body>
-<?php include_once("analyticstracking.php") ?>
 	<div class='wrapper'>
 		<div class='header'>
 			<?php
@@ -35,12 +32,12 @@ title("A Test Title");
 			 ******************/
 			sidebar();
 			print "<br />";
-			twitbox('HBBisenieks');
+			twitbox('Twitter username');
 			?>
 		</div>
 		<div class='clear'></div>
 		<div class='notice'>
-			<?php notice('2009','Hilary B. Bisenieks'); ?>
+			<?php notice('year','Copyright holder'); ?>
 		</div>
 	</div>
 </body>
