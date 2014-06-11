@@ -1,0 +1,145 @@
+body
+{
+	background-color:#666666;
+	font-family:georgia,serif;
+	color:#000000;
+}
+.wrapper
+{
+	margin-left:auto;
+	margin-right:auto;
+	width:908px;
+	background-color:#000000;
+	padding:4px;
+	border-radius:5px;
+}
+.header
+{
+	background-color:#000000;
+	margin-left:auto;
+	margin-right:auto;
+	padding:4px;
+}
+
+.main
+{
+	width:700px;
+	background-color:#eeeecc;
+	float:left;
+	border-radius:5px;
+}
+.copy {padding:25px;}
+.side
+{
+	width:200px;
+	color:#ffffff;
+	background-color:#000000;
+	float:right;
+	margin:0;
+}
+.notice
+{
+	text-align:center;
+	font-size:75%;
+	color:#ffffff;
+}
+.clear{clear:both;}
+
+/**** START BLOG STYLE ****/
+.blog-wrapper
+{
+	padding:25px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.blog-left 
+{
+	width:300px;
+	float:left;
+}
+.blog-right 
+{
+	width:300px;
+	float:right;
+}
+.blog-wrapper a 
+{
+	color:#000000;
+	font-weight:bold;
+	text-decoration:none;
+}
+.blog-wrapper a:hover {color:#555555;}
+/**** END BLOG STYLE ****/
+
+/**** BEGIN MENU-SPECIFIC STYLE ****/
+.menu
+{
+	width:900px;
+	color:#ffffff;
+	font-size:125%;
+	padding:0px 0px 0px 4px;
+}
+.menu ul
+{
+	padding:0;
+	margin:0;
+	list-style:none;
+	border:2px;
+}
+.menu li
+{
+	float:left;
+	position:relative;
+	width:150px;
+}
+.menu li ul
+{
+	display:none;
+	position:absolute;
+	top:1em;
+	left:0;
+	background-color:#000000;
+}
+.menu li > ul
+{
+	top:auto;
+	left:auto;
+}
+li:hover ul {display:block;}
+.menu a
+{
+        text-decoration:none;
+	color:#ffffff;
+        text-align:center;
+        font-family:"Courier New", lucida console, monospace;
+        font-weight:bold;
+        display: block;
+        border-width: 2px;
+        border-style: solid;
+        border-color: #666666 #666666 #666666 #666666;
+        margin: 0;
+        padding: 2px 0px;
+}
+.menu a:hover {color:#cccccc;}
+.menu a:visited {color:#ffffff;}
+/**** END MENU-SPECIFIC STYLE ****/
+
+h1, h2, h3, h4, h5, h6 
+{ 
+	text-align:center; 
+	font-family:"Courier New", lucida console, monospace; 
+}
+a
+{
+	color:#000000;
+	font-family:"Courier New", lucida console, monospace;
+	font-weight:bold;
+}
+a:visited {color:#222222}
+a:hover
+{
+	color:#770077;
+	text-decoration:none;
+}
+a:active {color:#888888;}
+a img {border:0;}
