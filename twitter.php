@@ -1,7 +1,7 @@
 <?php
-	function twitbox()
+	function twitbox($handle)
 	{
-		echo "<a class=\"twitter-timeline\" data-dnt=\"true\" href=\"https://twitter.com/HBBisenieks\"  data-widget-id=\"433373251645886464\">Tweets by @HBBisenieks</a>
+		echo "<a class=\"twitter-timeline\" data-dnt=\"true\" href=\"https://twitter.com/$handle\"  data-widget-id=\"433373251645886464\">Tweets by @$handle</a>
 			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+\"://platform.twitter.com/widgets.js\";fjs.parentNode.insertBefore(js,fjs);}}(document,\"script\",\"twitter-wjs\");</script>";
 	}
 ?>
